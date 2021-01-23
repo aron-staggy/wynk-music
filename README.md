@@ -1,6 +1,7 @@
 ## Wynk music for destop
 
 
+[![GitHub all Releases](https://img.shields.io/github/downloads/jothi-prasath/wynk-music/total.svg?logo=github&logoColor=lime&style=for-the-badge)](https://GitHub.com/jothi-prasath/wynk-music/releases/)
 [![GitHub issues](https://img.shields.io/github/issues/jothi-prasath/wynk-music?style=for-the-badge)](https://github.com/jothi-prasath/wynk-music/issues)
 [![GitHub forks](https://img.shields.io/github/forks/jothi-prasath/wynk-music?style=for-the-badge)](https://github.com/jothi-prasath/wynk-music/network)
 [![GitHub stars](https://img.shields.io/github/stars/jothi-prasath/wynk-music?style=for-the-badge)](https://github.com/jothi-prasath/wynk-music/stargazers)
